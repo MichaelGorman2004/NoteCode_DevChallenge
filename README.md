@@ -1,4 +1,6 @@
-# DevChallenges.io - Code Sharing App
+# NoteCode_DevChallenge - Code Sharing App
+
+Note Code Full Stack Challenge from devchallenges.io
 
 ![Thumbnail for the Code Sharing App coding challenge](./thumbnail.jpg)
 
